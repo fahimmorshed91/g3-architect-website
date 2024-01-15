@@ -23,6 +23,12 @@
   margin-top: 32px;
 }
 
+.head {
+  color: #131313;
+  font-size: 28px;
+  font-weight: 700;
+}
+
 .text-lightgrey {
   color: #727272;
   line-height: 1.6rem;
